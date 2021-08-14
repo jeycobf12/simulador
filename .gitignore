@@ -94,8 +94,8 @@ void vacio(){
 }
 
 void login(){
-	char usuario[30] = "Admin";
-	char contra[30] = "12345";
+	char usuario[30] = "jeycob";
+	char contra[30] = "jeycob1221";
 	char usu[30], con[30];
 	int intentos = 0, i;
 	char caracter;
